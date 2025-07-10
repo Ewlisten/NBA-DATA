@@ -12,3 +12,6 @@ This project analyzes NBA players using visualizations to compare their career t
 ## How to Run  
 1. Clone the repository:  
 
+<img src="ANTEDWARDS.png" alt="Alt text" width="400">
+<img src="SGA.png" alt="Alt text" width="400">
+
